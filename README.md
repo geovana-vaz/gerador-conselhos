@@ -9,4 +9,4 @@ Feito com HTML e CSS básico.
 
 ### Mobile
 
-<img src="./src/images/image-2.png">
+<img src="./src/images/image-2.png" width="200">
